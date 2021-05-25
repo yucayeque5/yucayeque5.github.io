@@ -1,8 +1,8 @@
 ---
 layout: default
-img: botanica1.jpg
+img: nursery1.jpg
 category: Services
-title: Botanica
+title: Nursery
 description: |
 ---
- Selling Religious items such as Santeria/Lukumi, Spiritism and Palo Mayombe.
+ Selling Caribbean/Tropical Non Citrus Plants and Herbs. Plants used in Lukumi and Spiritism.
