@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: https://yucayeque.io
-title: Yucayeque.io
+title: Yucayeque Botanica Nursery & Engineering
 email: contact@yucayeque.io
 author: Jonathan Lozada De La Matta
-description: Botanica, NurSery & Engineering.
+description: Botanica, Nursery & Engineering.
 copyright: 'Copyright &copy; 2021 YUCAYEQUE LLC. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -17,11 +17,19 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # Build settings
 markdown: kramdown
 permalink: pretty
-
+plugins:
+  - jekyll-seo-tag
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+twitter:
+  username: yucayeque
+  card: summary
 
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
 social:
   - title: instagram
     url: https://www.instagram.com/yucayeque_nursery/
@@ -33,3 +41,5 @@ social:
    # url: https://github.com/yucayeque5
   - title: etsy
     url: https://www.etsy.com/shop/Yucayeque
+
+  google_site_verification: UA-198859272-1
